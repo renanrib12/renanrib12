@@ -11,7 +11,7 @@ Cada projeto aborda diferentes temas e problemas, o que me permite explorar uma 
 
 Cada projeto apresenta uma descrição e/ou cenário fictício, dataset e notebook/arquivo contendo a análise específica dos dados. Todos os projetos estão disponíveis [aqui](https://github.com/renanrib12), e você também pode acessá-los conforme a ferramenta ou tecnologia utilizada através dos links abaixo. É importante destacar que um mesmo projeto pode estar categorizado em diferentes tópicos.
 
-* #### [Análises com SQL]()
+* #### [Análises com SQL](https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/readme.md)
 * #### [Análises com Ferramentas de BI]()
 
 <h3 align="left">Principais Skills:</h3>
